@@ -8,3 +8,6 @@ Consegui encontrar o eero e resolvê-lo.
 O caderno de estudos é o Notion no item Git & Github
 
 Adicionando mais uma linha de modificação no Readme.md
+
+Vou criar a terceira alteração para o Readme.md
+
